@@ -1,0 +1,8 @@
+fastapi==0.79.0
+mangum==0.15.1
+langchain-aws
+langgraph
+langchain
+pydantic
+boto3
+uvicorn[standard]
